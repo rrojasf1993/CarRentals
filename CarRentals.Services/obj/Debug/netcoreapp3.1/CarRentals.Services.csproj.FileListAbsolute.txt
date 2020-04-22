@@ -1,0 +1,26 @@
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.Services.deps.json
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.Services.dll
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.csprojAssemblyReference.cache
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.AssemblyInfoInputs.cache
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.AssemblyInfo.cs
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.Services.pdb
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.Common.dll
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.DAL.dll
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.Common.pdb
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.DAL.pdb
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.csproj.CopyComplete
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.dll
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.pdb
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.Services.deps.json
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.Services.dll
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.Services.pdb
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.Common.dll
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.DAL.dll
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.Common.pdb
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\bin\Debug\netcoreapp3.1\CarRentals.DAL.pdb
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.csprojAssemblyReference.cache
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.AssemblyInfoInputs.cache
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.AssemblyInfo.cs
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.csproj.CopyComplete
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.dll
+C:\Users\aw277mp\Documents\repo\CarRentals.backend\CarRentals.Services\obj\Debug\netcoreapp3.1\CarRentals.Services.pdb

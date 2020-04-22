@@ -1,0 +1,8 @@
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Repository\bin\Debug\netcoreapp3.1\CarRentals.Repository.deps.json
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Repository\bin\Debug\netcoreapp3.1\CarRentals.Repository.dll
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Repository\bin\Debug\netcoreapp3.1\CarRentals.Repository.pdb
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Repository\obj\Debug\netcoreapp3.1\CarRentals.Repository.csprojAssemblyReference.cache
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Repository\obj\Debug\netcoreapp3.1\CarRentals.Repository.AssemblyInfoInputs.cache
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Repository\obj\Debug\netcoreapp3.1\CarRentals.Repository.AssemblyInfo.cs
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Repository\obj\Debug\netcoreapp3.1\CarRentals.Repository.dll
+C:\Users\Roberto Rojas\source\repos\CarRentals\CarRentals.Repository\obj\Debug\netcoreapp3.1\CarRentals.Repository.pdb
